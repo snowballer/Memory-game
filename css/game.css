@@ -67,7 +67,7 @@ body {
 }
 .room .card .front {
 	position: absolute;
-	background: url(../imgs/frontface.jpg);
+	background: url(http://ouyt4c4z5.bkt.clouddn.com/frontface.jpg);
 	background-repeat: no-repeat;
 	background-size: 100%;
 	z-index: 1;
