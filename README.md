@@ -1,10 +1,19 @@
 # 记忆游戏
 
->依赖jQuery和CSS3完成的一款小游戏
+> 依赖jQuery和CSS3完成的一款小游戏
 
 ## 预览
 
-在线预览地址：
-<a href="https://snowballer.github.io/Memory-game/" target="_blank">记忆游戏</a>
+在线预览地址：<https://snowballer.github.io/Memory-game/>
 
 ## 项目说明
+
+- **关卡式**：本游戏分为三个关卡，难度递增
+
+- **图片随机**：每次开始游戏，图片从图库随机生成，随机排布
+
+- **关卡响应**：随着成功与失败会弹出不同对话框提示成功与失败，当然通关时会提示是否继续再玩一轮
+
+- **性能优化**：图片数量过多导致了加载过慢，现已全部采用cdn，图片加载速度大幅提升
+
+- **引用说明**：本游戏所有图片来源于https://octodex.github.com/，属于github吉祥物组图
