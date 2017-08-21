@@ -16,4 +16,4 @@
 
 - **性能优化**：图片数量过多导致了加载过慢，现已全部采用cdn，图片加载速度大幅提升
 
-- **引用说明**：本游戏所有图片来源于https://octodex.github.com/，属于github吉祥物组图
+- **引用说明**：本游戏所有图片来源于<https://octodex.github.com/>，属于github吉祥物组图
